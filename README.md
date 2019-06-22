@@ -7,9 +7,9 @@
 <li><a href="#Licensing">Licensing, Authors, and Acknowledgements</a></li>
 
 # Installation:
-Python versions 3.*.
+Python version 3.*.
 - Libraries:
-  - Pandas.
+  - pandas.
   - numpy.
   - matplotlib.
   - itertools.
