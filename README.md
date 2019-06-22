@@ -27,4 +27,4 @@ For this project, I was interestested in using Stack Overflow data 2017 to bette
 # Results:
 
 # Licensing:
-
+This project used stack overflow 2017 survey dataset and it was obtained from this website https://www.kaggle.com/stackoverflow/so-survey-2017
