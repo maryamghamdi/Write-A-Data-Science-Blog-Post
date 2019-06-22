@@ -21,10 +21,11 @@ For this project, I was interestested in using Stack Overflow data 2017 to bette
   - What is the average salary for professional developer in different countries?
   - Which developer type has the highest job satisfaction?
 
-
 # File Descriptions:
+There is one notebook file that includes all the works related to the previous questions
 
 # Results:
+The main findings of the code can be found at the post available (.....)
 
 # Licensing:
 This project used stack overflow 2017 survey dataset and it was obtained from this website https://www.kaggle.com/stackoverflow/so-survey-2017
