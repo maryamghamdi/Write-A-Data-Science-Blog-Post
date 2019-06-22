@@ -22,7 +22,7 @@ For this project, I was interestested in using Stack Overflow data 2017 to bette
   - Which developer type has the highest job satisfaction?
 
 # File Descriptions:
-There is one notebook file that includes all the works related to the previous questions
+There is one notebook file that includes all the works related to the previous questions.
 
 # Results:
 The main findings of the code can be found at the post available (.....)
