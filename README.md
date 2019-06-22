@@ -28,4 +28,4 @@ There is one notebook file that includes all the works related to the previous q
 The main findings of the code can be found at the post available (.....)
 
 # Licensing:
-This project used stack overflow 2017 survey dataset and it was obtained from this website https://www.kaggle.com/stackoverflow/so-survey-2017
+This project used stack overflow 2017 survey dataset and it was obtained from [here] (https://www.kaggle.com/stackoverflow/so-survey-2017)
