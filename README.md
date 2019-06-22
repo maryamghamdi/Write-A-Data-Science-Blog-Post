@@ -16,10 +16,10 @@ Python version 3
 
 # Project Motivation:
 In this project, I will focus on finding out the answers of the following questions:
-  - Which are the most programming languages that 'Students' prefer? 
+  > Q1. Which are the most programming languages that 'Students' prefer? 
     and which are the programming languages they have been worked with before?
-  - What is the average salary for professional developer in different countries?
-  - Which developer type has the highest job satisfaction?
+  > Q2. What is the average salary for professional developer in different countries?
+  > Q3. Which developer type has the highest job satisfaction?
 
 # File Descriptions:
 There is one notebook file that includes all the works related to the previous questions.
