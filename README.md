@@ -7,7 +7,24 @@
 <li><a href="#Licensing">Licensing, Authors, and Acknowledgements</a></li>
 
 # Installation:
+Python versions 3.*.
+- Libraries:
+  - Pandas.
+  - numpy.
+  - matplotlib.
+  - itertools.
+
 # Project Motivation:
+For this project, I was interestested in using Stack Overflow data 2017 to better understand:
+  - Which are the most programming languages that 'Students' prefer? 
+    and which are the programming languages they have been worked with before?
+  - What is the average salary for professional developer in different countries?
+  - Which developer type has the highest job satisfaction?
+
+
 # File Descriptions:
+
 # Results:
+
 # Licensing:
+
