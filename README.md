@@ -7,7 +7,7 @@
 <li><a href="#Licensing">Licensing, Authors, and Acknowledgements</a></li>
 
 # Installation:
-Python version 3.*.
+Python version 3
 - Libraries:
   - pandas.
   - numpy.
