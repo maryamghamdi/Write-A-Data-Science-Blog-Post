@@ -15,7 +15,7 @@ Python version 3
   - itertools.
 
 # Project Motivation:
-For this project, I was interestested in using Stack Overflow data 2017 to better understand:
+In this project, I will focus on finding out the answers of the following questions:
   - Which are the most programming languages that 'Students' prefer? 
     and which are the programming languages they have been worked with before?
   - What is the average salary for professional developer in different countries?
