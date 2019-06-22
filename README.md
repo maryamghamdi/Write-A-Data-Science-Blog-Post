@@ -4,7 +4,7 @@
 <li><a href="#Project Motivation">Project Motivation</a></li>
 <li><a href="#File Descriptions">File Descriptions</a></li>
 <li><a href="#Results">Results</a></li>
-<li><a href="#Licensing">Licensing, Authors, and Acknowledgements</a></li>
+<li><a href="#Licensing">Licensing</a></li>
 
 # Installation:
 Python version 3
