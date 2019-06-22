@@ -1,5 +1,5 @@
 # Write-A-Data-Science-Blog-Post
-This project was completed as part of the course requirements of [Udacity's Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025)certification.
+This project was completed as part of the course requirements of [Udacity's Data Scientist Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) certification.
 
 <li><a href="#Installation">Installation</a></li>
 <li><a href="#Project Motivation">Project Motivation</a></li>
