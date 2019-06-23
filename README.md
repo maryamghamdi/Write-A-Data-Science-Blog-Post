@@ -26,7 +26,7 @@ In this project, I will focus on finding out the answers of the following questi
 There is one notebook file that includes all the works related to the previous questions.
 
 # Results:
-The main findings of the code can be found at the post available (.....)
+The main findings of the code can be found at the post available [here](https://medium.com/@mhnghamdi/what-are-the-interesting-findings-from-2017-stackoverflow-survey-data-60fa4e4bab83?source=friends_link&sk=33e2ea7305f58f02104b4b6471595f54)
 
 # Licensing:
 This project used 2017 StackOverflow survey data and it was obtained from [here](https://www.kaggle.com/stackoverflow/so-survey-2017)
